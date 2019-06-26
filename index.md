@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-This subject is tought by Prof. Vaibhav Shruvastava at IIT Kanpur
+This subject is tought by Prof. Kumar Vaibhav Srivastava at IIT Kanpur
 ```markdown
 Syntax highlighted code block
 
